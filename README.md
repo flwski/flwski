@@ -1,5 +1,5 @@
 # Greetings from Fernando Levandoski 👨‍💻
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandolevandoski)](https://www.linkedin.com/in/sudiptoghosh99/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandolevandoski)](https://www.linkedin.com/in/fernandolevandoski)
 
 👨‍🎓 Formado em Sistemas para Internet, na Faculdade de Informática de Presidente Prudente (FIPP), na Universidade do Oeste Paulista (UNOESTE) 
 
