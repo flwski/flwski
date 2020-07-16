@@ -18,7 +18,7 @@ export default () => ({
   ],
   technologies: {
     frontEnd: {
-      js: ["react", "jquery"],
+      js: ["react"],
       css: ["materialize", "bootstrap"],
       mobile: ["react native", "android"]
     },
