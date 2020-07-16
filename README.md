@@ -29,8 +29,8 @@ export default () => ({
     databases: ["mongo", "postgres", "oracle", "mysql"]
   },
   jobdescription: [
-    "full stack developer",
-    "Usina Alto Alegre S/A",    
+    "occupation": "full stack developer",
+    "at": "Usina Alto Alegre S/A",    
   ]
 });
 ```
