@@ -5,7 +5,7 @@
 
 ```js
 export default () => ({
-  pronoums: "He" | "Him",
+  pronouns: "He" | "Him",
   blogUrl: "https://cafecomcodigofonte.wordpress.com/",
   location: [
     "city": "Presidente Prudente",
