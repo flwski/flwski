@@ -22,7 +22,7 @@ export default () => ({
     },
     backEnd: {     
       js: ["node", "express"],
-      csharp: ["asp.net core", "asp.net framework"],     
+      csharp: ["asp.net framework"],     
     },   
     databases: ["mongo", "postgres", "oracle", "mysql"]
   },
