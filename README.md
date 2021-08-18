@@ -4,7 +4,7 @@
 ```js
 export default () => ({
   pronouns: "He" | "Him",
-  blogUrl: "https://flwski.github.io/",
+  links: "https://flwski.github.io/",
   location: [
     "city": "Presidente Prudente",
     "state": "São Paulo",
